@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there! 
 
-<!--
-**John-C-20/John-C-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Software Engineer. 
 
-Here are some ideas to get you started:
+Proficient in HTML5, CSS, Ruby, SQL, Ruby on Rails, Javascript, Node.js, React/Redux, Mongoose, MongoDB, Express, Socket.io, Webpack, Babel, Google Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced with Agile methodologies and Git Workflow.
+
+Currently brushing up on DS&A and learning new technologies though building mini-projects.
+
+When I am not coding, you will most likely find me :
+- Making progress at the gym 💪
+- Discovering new music on Spotify 🎧
+- Playing video games (Smash, anyone?) 🤓🕹
+- Having a laugh with friends 😄
