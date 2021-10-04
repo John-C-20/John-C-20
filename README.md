@@ -1,10 +1,8 @@
 Hi there! 
 
-I'm a Fullstack Software Engineer. 
+I'm a Fullstack Software Engineer who is proficient in HTML5, CSS, Ruby, SQL, Ruby on Rails, Javascript, Node.js, React/Redux, Mongoose, MongoDB, Express, Socket.io, Webpack, Babel, Google Analytics and more! 
 
-Proficient in HTML5, CSS, Ruby, SQL, Ruby on Rails, Javascript, Node.js, React/Redux, Mongoose, MongoDB, Express, Socket.io, Webpack, Babel, Google Analytics
-
-Experienced with Agile methodologies and Git Workflow.
+I have experience working with teams utilizing Agile methodologies and Git Workflow.
 
 Currently brushing up on DS&A and learning new technologies though building mini-projects.
 
